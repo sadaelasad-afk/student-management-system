@@ -1,0 +1,13 @@
+.table-responsive {
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.table-dark th {
+  font-weight: bold;
+  text-align: center;
+}
+
+table tbody tr:hover {
+  background-color: #f9f9f9;
+}

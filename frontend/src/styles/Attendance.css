@@ -1,0 +1,13 @@
+.card {
+  border: none;
+  border-top: 3px solid;
+}
+
+.card.text-center h5 {
+  font-weight: bold;
+  margin: 0;
+}
+
+.form-check {
+  margin-bottom: 0.5rem;
+}
